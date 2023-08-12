@@ -1,4 +1,5 @@
----
+@ReyBan82
+https://g.dev/AnT1nG
 title: Content organization
 linkTitle: Organization
 description: Hugo assumes that the same structure that works to organize your source content is used to organize the rendered site.
